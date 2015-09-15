@@ -1,0 +1,21 @@
+{
+  "name": "jekyll-materialize-starter",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ciaronnixon/jekyll-materialize-starter",
+  "authors": [
+    "Ciaron Nixon <ciaron@gmail.com>"
+  ],
+  "description": "Starter project for a simple jekyll static site with the materialize framework",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_assets/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Materialize": "materialize#~0.97.1"
+  }
+}

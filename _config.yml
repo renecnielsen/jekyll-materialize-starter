@@ -15,3 +15,10 @@ markdown: kramdown
 
 # Make jekyll serve open to other machines
 host: 0.0.0.0
+
+# Saas Settings                                                                                                                                  
+sass:                                                                                                                                            
+  sass_dir: _assets
+
+# Exclude the stuff we don't want to expose to the world
+exclude: [bower.json]
